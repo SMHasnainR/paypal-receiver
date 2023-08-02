@@ -15,6 +15,8 @@ use App\Http\Controllers\PaymentController;
 
 Route::get('/', function () {
     return view('welcome');
-});
+})->name('home');
 
 Route::post('pay',[PaymentController::class,'pay'])->name('submit-payment');
+Route::get('success',[PaymentController::class,'success']);
+Route::get('error',[PaymentController::class,'error']);
