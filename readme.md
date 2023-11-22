@@ -1,6 +1,6 @@
 ## PayPal Receiver
 ### Overview
-Welcome to PayPal Receiver, a secure and convenient payment receiving platform that integrates PayPal and Stripe to facilitate seamless transactions. Our platform offers a user-friendly interface for collecting payments using both PayPal and Stripe payment gateways.
+Welcome to PayPal Receiver, a secure and convenient payment receiving platform that integrates PayPal and Stripe to facilitate seamless transactions. Our platform offers a simple interface for collecting payments using both PayPal and Stripe payment gateways.
 
 ## Project Website
 https://papersdock.com/
